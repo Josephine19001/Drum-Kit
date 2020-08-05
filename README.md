@@ -1,2 +1,2 @@
 # Drum-Kit
-adding event listeners to my website
+A mini website to learn how event listeners work in Javascript
